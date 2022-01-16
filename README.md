@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. If you want to make a change, please use the develop branch and open a pull request.
 
+## API
+https://omdbapi.com/
+
 ## How to use
 First you need to download project.
 
